@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "258594689815",
+    "project_id": "steplive-454ac",
+    "storage_bucket": "steplive-454ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258594689815:android:0a80f72e8da4cf3f9c9d52",
+        "android_client_info": {
+          "package_name": "com.example.tarckfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258594689815-86k4m642jruf9tbtdcfheabp5f310bhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tarckfit",
+            "certificate_hash": "69c5f2b59f52bdb1122e68d7087353f39bd72c83"
+          }
+        },
+        {
+          "client_id": "258594689815-vl6sonhpf6ub9sk2g9q82hk5snfdhgl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZPGdMCDyH6hG0mWKsigd7kvS9H_vQaYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258594689815-vl6sonhpf6ub9sk2g9q82hk5snfdhgl7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "258594689815-vjvt8h8l55qaps2j5chvliv4qv27hsnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tarckfit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

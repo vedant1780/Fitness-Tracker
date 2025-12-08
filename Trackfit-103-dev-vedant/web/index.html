@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="tarckfit">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>tarckfit</title>
+  <link rel="manifest" href="manifest.json">
+
+  <!-- ---------------- Firebase SDK ---------------- -->
+  <!-- Firebase core -->
+  <script src="https://www.gstatic.com/firebasejs/10.24.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.24.0/firebase-auth-compat.js"></script>
+
+  <script>
+    // TODO: Replace the values with your Firebase web config
+    const firebaseConfig = {
+      apiKey: "YOUR_API_KEY",
+      authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+      projectId: "YOUR_PROJECT_ID",
+      storageBucket: "YOUR_PROJECT_ID.appspot.com",
+      messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+      appId: "YOUR_APP_ID"
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
+  <!-- ---------------- End Firebase SDK ---------------- -->
+
+</head>
+<body>
+<script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
