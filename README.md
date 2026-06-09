@@ -105,7 +105,7 @@ lib/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/trackfit.git
+git clone [https://github.com/vedant1780/Fitness-Tracker]
 cd trackfit
 ```
 
