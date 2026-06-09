@@ -148,13 +148,13 @@ Through building TrackFit, practical experience was gained in:
 
 ## 🎯 Future Enhancements
 
-- [ ] Social fitness challenges and leaderboards
-- [ ] AI-powered personalized workout recommendations
-- [ ] Wearable device integration (Apple Watch, Fitbit, etc.)
-- [ ] Nutrition and calorie tracking
-- [ ] Curated workout plans and live coaching
-- [ ] Subscription management system (RevenueCat / Stripe)
-- [ ] Cloud synchronization across devices
+- Social fitness challenges and leaderboards
+- AI-powered personalized workout recommendations
+- Wearable device integration (Apple Watch, Fitbit, etc.)
+- Nutrition and calorie tracking
+- Curated workout plans and live coaching
+- Subscription management system (RevenueCat / Stripe)
+- Cloud synchronization across devices
 
 ---
 
